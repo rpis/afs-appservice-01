@@ -1,0 +1,5 @@
+    #@baseUrl = http://localhost:8080/
+    @baseUrl = https://afs-appservice-01.azurewebsites.net
+
+
+     get {{baseUrl}}
